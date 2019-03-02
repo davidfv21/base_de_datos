@@ -44,7 +44,8 @@ public class consultarusuarios extends AppCompatActivity {
    //String parametros = (campoid .getText().toString());
     //String[] campos = (utilidades.campo_nombre , utilidades.campo_telefono);
 
-
+        //estos string que estan bloqueados es la manera en que se debe hacer pero sale erros y
+        // de la manera de abajo no sale error pero solo deja llamer un campo no los dos para el querry
 
 
 
@@ -58,6 +59,8 @@ public class consultarusuarios extends AppCompatActivity {
 
           //String[]campos =new String[10];
           //campos[0]=(utilidades.campo_telefono);
+
+
 
 
         //consula de campos
